@@ -1,4 +1,4 @@
-import { GetStaticProps, NextPage } from 'next'
+import { GetStaticProps, NextPage } from 'next';
 
 import { pokeAPI } from '../api';
 import { Layout } from '../components/layouts';
